@@ -2,6 +2,6 @@
 
 int main(void){
     
-    std::cout << "salida";
+    std::cout << "salida juasjuas";
     return 0;
 }
